@@ -23,7 +23,7 @@ public class Database {
         String port = "3306";
         String databaseName = "restaurante";
         String databaseUser = "root";
-        String databasePassword = "Inforcol2024#";
+        String databasePassword = "password";
         String url = "jdbc:mysql://" + hostname + ":" + port + "/" + databaseName;
         
         try{
